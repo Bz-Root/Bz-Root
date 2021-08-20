@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other projects creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to bodybuilding and swimming / drums
+- ⚡ Fun fact: I love to bodybuilding and swimming / Gaming espically Valorant
 
 ### Connect with me:
 
