@@ -1,7 +1,7 @@
 ### Hi there, I'm Ziad - Bougrine [DerZiads][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDerZiad&screen_name=DerZiads)
+[![Website](https://img.shields.io/website?label=Check%20My%20Website&style=for-the-badge&up_message=UP&url=https%3A%2F%2Fwww.facebook.com%2Fziad.bougrine.5%2F)](https://www.facebook.com/ziad.bougrine.5/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/DerZiads?label=Follow%20me%20DerZiads&style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDerZiad&screen_name=DerZiads)
 
 ## I'm a Student and Developer
 
