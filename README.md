@@ -95,7 +95,7 @@
 
 </details>
 
-[twitter]: https://img.shields.io/twitter/follow/BougrineZiad?style=flat-square
+[twitter]: https://twitter.com/BougrineZiad
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://www.instagram.com/derziads
 [linkedin]: https://www.linkedin.com/in/ziad-bougrine-9b94171a5/
