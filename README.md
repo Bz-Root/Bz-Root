@@ -49,7 +49,7 @@
 
 
 [twitter]: https://twitter.com/BougrineZiad
-[youtube]: https://youtube.com/codeSTACKr
+[youtube]: https://www.youtube.com/channel/UCBpVvYVA8X2qGV5N2St0zSQ
 [instagram]: https://www.instagram.com/derziads
 [linkedin]: https://www.linkedin.com/in/ziad-bougrine-9b94171a5/
 [facebook]: https://www.facebook.com/ziad.bougrine.5/
