@@ -50,7 +50,7 @@
 
 [twitter]: https://twitter.com/BougrineZiad
 [youtube]: https://www.youtube.com/channel/UCBpVvYVA8X2qGV5N2St0zSQ
-[instagram]: https://www.instagram.com/derziads
+[instagram]: https://www.instagram.com/ziad.jar
 [linkedin]: https://www.linkedin.com/in/ziad-bougrine-9b94171a5/
 [facebook]: https://www.facebook.com/ziad.bougrine.5/
 <!--[website]:	https://www.facebook.com/ziad.bougrine.5/-->
