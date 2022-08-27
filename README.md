@@ -1,4 +1,5 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://teammeta.eu/wp-content/uploads/2020/07/developer.jpg))](https://rishavchanda.io)
+[![MasterHead](https://teammeta.eu/wp-content/uploads/2020/07/developer.jpg)](https://rishavchanda.io)
+<img align="right" alt="Coding" width="400" src="https://image.shutterstock.com/image-vector/bearded-man-drinking-coffee-vector-260nw-1293082045.jpg">
 <h1 align="center">Hi 👋, I'm Ziad Bougrine</h1>
 <h3 align="center">Full Stack developer</h3>
 
