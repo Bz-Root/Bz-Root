@@ -1,3 +1,4 @@
+<img align="right" alt="Coding" width="400" src="https://teammeta.eu/wp-content/uploads/2020/07/developer.jpg">
 <h1 align="center">Hi 👋, I'm Ziad Bougrine</h1>
 <h3 align="center">Full Stack developer</h3>
 
