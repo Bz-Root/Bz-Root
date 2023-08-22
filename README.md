@@ -1,4 +1,4 @@
-[![MasterHead]([https://teammeta.eu/wp-content/uploads/2020/07/developer.jpg](https://www.theforage.com/blog/wp-content/uploads/2022/12/what-is-cybersecurity.jpg))](https://rishavchanda.io)
+![Cyber Security](https://www.theforage.com/blog/wp-content/uploads/2022/12/what-is-cybersecurity.jpg)
 <img align="right" alt="Coding" width="300" src="https://image.shutterstock.com/image-vector/bearded-man-drinking-coffee-vector-260nw-1293082045.jpg">
 <h1 align="center">Hi 👋, I'm Ziad Bougrine</h1>
 <h3 align="center">Full Stack developer</h3>
