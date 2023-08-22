@@ -9,9 +9,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=derziad" alt="derziad" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/bougrineziad" target="blank"><img src="https://img.shields.io/twitter/follow/bougrineziad?logo=twitter&style=for-the-badge" alt="bougrineziad" /></a> </p>
-
-
 
 - 🔭 I’m currently working on **cosmotic vision project**
 
